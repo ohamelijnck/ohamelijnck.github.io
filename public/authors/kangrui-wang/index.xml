@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kangrui Wang | Ollie Hamelijnck</title>
-    <link>/authors/kangrui-wang/</link>
-      <atom:link href="/authors/kangrui-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://ohamelijnck.github.io/authors/kangrui-wang/</link>
+      <atom:link href="http://ohamelijnck.github.io/authors/kangrui-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Kangrui Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 1969 16:33:39 -0800</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>http://ohamelijnck.github.io/img/icon-192.png</url>
       <title>Kangrui Wang</title>
-      <link>/authors/kangrui-wang/</link>
+      <link>http://ohamelijnck.github.io/authors/kangrui-wang/</link>
     </image>
     
     <item>
       <title>Multi-resolution Multi-Task Gaussian Procceses</title>
-      <link>/publication/mr_gps_neurips_2019/</link>
+      <link>http://ohamelijnck.github.io/publication/mr_gps_neurips_2019/</link>
       <pubDate>Wed, 31 Dec 1969 16:33:39 -0800</pubDate>
-      <guid>/publication/mr_gps_neurips_2019/</guid>
+      <guid>http://ohamelijnck.github.io/publication/mr_gps_neurips_2019/</guid>
       <description></description>
     </item>
     
